@@ -8,3 +8,6 @@ for coin in coins:
     n %= coin
     
 print(total)
+
+
+#O(K)
